@@ -12,8 +12,8 @@ else:
 
 class NDATokenGenerator(object):
     __schemas = {
-        'aws_access_key': 'akia13123fim934nf9f3f',
-        'aws_secret_key': 'wefemjwaeoifnweinfewalifnwe293jr9823'
+        'aws_access_key': 'XXXXXX',
+        'aws_secret_key': 'XXXXXXX'
     }
 
     def __init__(self, url='https://ndar.nih.gov/DataManager/dataManager'):
